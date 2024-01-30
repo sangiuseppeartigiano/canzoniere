@@ -30,16 +30,33 @@ body{
     border-radius: .25rem;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  
     max-width: 30%;
+    height: 140px;
+}
+
+.domenica {
+    background-color: #c8ddf1;
+    height: 300px;
 }
 
 img{
     height: 100px;
     width: 100px;
-    margin-right: 20px;
+}
+
+.violino{
+  height: 150px;
+  width: 150px;  
+  margin-top: 30px;
 }
 
 h6{
     margin: -85px 0px 10px 120px;
+}
+
+.canti {
+    margin: 0 auto;
+    font-size: 24px;
+    text-align: center;
 }
 
 .btn-primary {
@@ -51,6 +68,18 @@ h6{
 
 .btn{
    padding:7px 35px;
+}
+
+.rosso{
+  border: solid 2px #ff0000ba !important;
+  background-color: #ff0000ba !important;  
+  margin-left: 0px;
+  height: 100px;
+  width: 200px;
+  margin-top: 30px;
+  border-radius: 60px !important;
+  font-size: 30px;
+  font-weight: bold;
 }
 
 @media (max-width: 1251px) {
