@@ -43,9 +43,10 @@ img{
 }
 
 .chitarra{
-  height: 150px;
-  width: 150px;  
-  margin: 20px 5px 20px 20px;
+  height: 200px;
+  width: 200px;  
+  margin-left: 30%;
+  transform: rotate(15deg);
 }
 
 h6{
@@ -67,13 +68,6 @@ h6{
 
 .btn{
    padding:7px 35px;
-}
-
-.rosso{
-  border: solid 2px #ff0000ba !important;
-  background-color: #ff0000ba !important;  
-  font-weight: bold;
-  margin: 0 auto;
 }
 
 @media (max-width: 1251px) {
