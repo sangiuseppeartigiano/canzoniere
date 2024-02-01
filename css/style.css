@@ -58,8 +58,10 @@ h6{
 
 .canti {
     margin: 0 auto;
+    margin-top: 20px;
     font-size: 24px;
     text-align: center;
+    color: deeppink;
 }
 
 .btn-primary {
