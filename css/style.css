@@ -44,10 +44,11 @@ h6{
 }
 
 .canti {
-    font-size: 24px;
+    font-size: 22px;
     text-align: center;
     color: deeppink;
-    width: 60%;
+    width: 65%;
+    margin-top: -90px;
 }
 
 .btn-primary {
