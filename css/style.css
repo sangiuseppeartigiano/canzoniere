@@ -47,6 +47,11 @@ h6{
     font-size: 20px;
     text-align: center;
     color: deeppink;
+    display: block;
+    width: 80%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-left: 70px;
 }
 
 .btn-primary {
