@@ -45,13 +45,9 @@ h6{
 
 .canti {
     font-size: 20px;
-    text-align: center;
     color: deeppink;
     display: block;
-    width: 80%;
-    margin-bottom: 0;
-    margin-left: 0;
-    margin-left: 70px;
+    width: 60%;
 }
 
 .btn-primary {
